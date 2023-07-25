@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vy Cao</h1>
-<h3 align="center">A passionate second-year IT student at HCMUS. I have actively pursued various projects during my first two years at this university.</h3>
 
 - 📫 How to reach me **yenvy.caohoai@gmail.com**
 
